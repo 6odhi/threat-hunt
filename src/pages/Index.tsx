@@ -93,6 +93,7 @@ const Index = () => {
     >
       <p>
         Threat hunting is a proactive approach for finding sophisticated threats in an organization's environment which evaded automated cyber defense solutions (such as EDR, SIEM, Firewalls, and IDS).
+        
         Hunting not only helps to identify APTs, malware infections, malicious activity etc. within the network, but it also goes much further, uncovering known and unknown security gaps that other teams may have overlooked.
       </p>
 
