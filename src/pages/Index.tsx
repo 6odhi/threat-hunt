@@ -102,7 +102,7 @@ const Index = () => {
       </p>
 
       <p>
-        In this blog, I will be sharing tools, techniques, and concepts that I have learned and implemented during my hunting journey. Stay tuned!
+        In this blog, I will be sharing tools, techniques, and concepts that I have learned and implemented during my hunting journey. Stay tuned! for next time !
       </p>
     </div>
 
